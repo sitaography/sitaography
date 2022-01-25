@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sitaography
+- 👋 Hi, I’m Giovanni Sita
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning HTML, CSS and JavaScript.
 - 💞️ I’m looking to collaborate on various Web Development Projects. 
